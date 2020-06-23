@@ -7,3 +7,7 @@ Geralt wurde als Sohn der Zauberin Visenna geboren. Sein Vater war vermutlich ei
 * brave
 * silent
 * fearless
+
+As Gerald said:
+
+> Why men throw their lives away attacking an armed witcher . . . I'll never know. Something about my face?
